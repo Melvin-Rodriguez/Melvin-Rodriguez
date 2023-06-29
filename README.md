@@ -1,14 +1,13 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/">Melvin Rodríguez</a> </h1>
+<h1 align="center">Hola, te doy la bienvenida a mi portafolio de proyecto y  <a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/">perfil</a> </h1>
 </div>
-<img src="https://github.com/Melvin-Rodriguez/Melvin-Rodriguez/assets/111929312/76261d23-7cf5-446e-b82c-1b17a2d423e3
-">
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111929312/249653774-76261d23-7cf5-446e-b82c-1b17a2d423e3.png">
 
 [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)
 
 ## Sobre mi
 
-Te doy la bienvenida a mi perfil. Soy Melvin Rodríguez, un ingeniero de Data Analytics altamente enfocado en la seguridad informática, quien siempre aplica las mejores prácticas en ciberseguridad y medidas de seguridad adecuadas en el procesamiento de datos para proteger la información sensible. 
+Soy un ingeniero de Data Analytics altamente enfocado en la seguridad informática, quien siempre aplica las mejores prácticas en ciberseguridad y medidas de seguridad adecuadas en el procesamiento de datos para proteger la información sensible. 
 
 Mi experiencia en prevención de fraude interno y externo me permite identificar patrones y comportamientos sospechosos en los datos, aplicando técnicas de análisis predictivo, estadísticos y minería de datos. De esta manera, puedo colaborar en la detección temprana de posibles fraudes y en la implementación de medidas preventivas y correctivas para minimizar el impacto de estos riesgos en la institución. Además, el análisis de patrones resultantes de estas investigaciones me permite implementar estrategias, alertas y controles informáticos que prevengan tanto el fraude interno, externo como el electrónico.
 
@@ -26,7 +25,7 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 <h3 align="center">Ciencia de Datos</h3>
 <div align="center">
 <a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="![CIA1](https://github.com/Melvin-Rodriguez/Melvin-Rodriguez/assets/111929312/d0936930-4e1a-41ec-9768-4bcf1ecb1d9c)
-" width="400" alt="Curso básico android"></a>
+" width="400" alt="Ciencia de Datos"></a>
 <p>
 <a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
