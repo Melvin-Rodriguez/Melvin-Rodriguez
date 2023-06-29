@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/">Melvin Rodríguez</a> </h1>
 </div>
-<img src="https://github.com/Melvin-Rodriguez/Melvin-Rodriguez/assets/111929312/76261d23-7cf5-446e-b82c-1b17a2d423e3)
+<img src="https://github.com/Melvin-Rodriguez/Melvin-Rodriguez/assets/111929312/76261d23-7cf5-446e-b82c-1b17a2d423e3
 ">
 
 [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)
