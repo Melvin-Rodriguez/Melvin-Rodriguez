@@ -7,6 +7,12 @@
 <br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)
+![Profile views](https://komarev.com/ghpvc/?username=Melvin-Rodriguez&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Melvin-Rodriguez.repoName)
+<!--<img src="https://komarev.com/ghpvc/?username=Melvin-Rodriguez&label=Profile%20views&color=0e75b6&style=flat" alt="MelvinRodriguez" /> -->
+
+
+
 
 ## Sobre mi
 
@@ -52,13 +58,52 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 - **Languages**:
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 
 - **Softwares and Tools**:
 
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </p>
+
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.microsoft.com/en-us/sql-server/"><img alt="SQLServer" src="https://img.shields.io/badge/SQL Server-%2300f.svg?style=flat&llogo=sqlserver&logoColor=white"></a>  
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a> 
+ </p>
+  
+### 👉Graphic Designing
+<p align="left">
+&emsp;
+  <a href="#">
+  	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
+  </a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+ 
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-0078d7.svg?logo=visual-studio&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+  &emsp;
+</p>
+
+
+<!-- TROFEOS GITHUB -->
+<p align="center"> <a href="https://github.com/Melvin-Rodriguez/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Melvin-Rodriguez&theme=darkhub&row=1&column=-1&rank=-?&no-frame=true&no-bg=true" alt="Melvin Rodríguez" /></a> </p>
+
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -69,9 +114,13 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 </a>
 </p>
 
+<!--
+<td width="50%" align="center">
 
-
-
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Melvin-Rodriguez&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+-->
 
 <br>
 <br>
