@@ -1,7 +1,10 @@
-<div align="center">
-<h1 align="center">Hola, te doy la bienvenida a mi portafolio de proyecto y  <a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/">perfil</a> </h1>
-</div>
+<p align="center">
+  <a href="https://github.com/Melvin-Rodriguez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola;Te+doy+la+bienvenida+a+mi+perfil;y+portafolio+de+proyectos" alt="Typing SVG"></a>
+</p>
+
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111929312/249653774-76261d23-7cf5-446e-b82c-1b17a2d423e3.png">
+
+<br>
 
 [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)
 
@@ -40,6 +43,23 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 </div>
 <br>
 
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+
+- **Softwares and Tools**:
+
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</p>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -48,3 +68,37 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Melvin-Rodriguez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+
+
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  Melvin Rodríguez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<br>
+
+<li>
+<a href="mailto:mtrabajo87@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  Melvin Rodríguez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+---
