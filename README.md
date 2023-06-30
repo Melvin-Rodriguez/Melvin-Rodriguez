@@ -24,8 +24,7 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 <td width="50%">
 <h3 align="center">Ciencia de Datos</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="![CIA1](https://github.com/Melvin-Rodriguez/Melvin-Rodriguez/assets/111929312/d0936930-4e1a-41ec-9768-4bcf1ecb1d9c)
-" width="400" alt="Ciencia de Datos"></a>
+<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688083941/Perfil/CIA1_dxae3o.png" width="400" alt="Ciencia de Datos"></a>
 <p>
 <a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
