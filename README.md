@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Melvin-Rodriguez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hola;Te+doy+la+bienvenida+a+mi+perfil;y+portafolio+de+proyectos" alt="Typing SVG"></a>
+  <a href="https://github.com/Melvin-Rodriguez/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Zilla+Slab&duration=3000&pause=5000&color=cyan&size=35&center=true&vCenter=true&width=900&height=35&lines=Hola;Te+doy+la+bienvenida+a+mi+perfil+y+portafolio+de+proyectos" alt="Typing SVG"></a>
 </p>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111929312/249653774-76261d23-7cf5-446e-b82c-1b17a2d423e3.png">
