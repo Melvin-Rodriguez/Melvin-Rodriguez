@@ -33,34 +33,34 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 <td width="50%">
 <h3 align="center">Seguridad de la Información</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688171115/Perfil/4_oeqaeu.png" width="400" alt="Seguridad de la Información"></a>
+<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688172385/Perfil/4_r1nah9.png" width="400" alt="Seguridad de la Información"></a>
 <p>
 <a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Confidencialidad <strong>
-   Integridad </strong>
-   Disponibilidad: <strong> 
-   El principal obejtivo es salvaguardar los datos y sistemas de cualquier amenaza o riesgo </strong>
-   como acceso no autorizado, pérdida, robo, daño o manipulación de la información</p>
+<p>
+   <strong> Confidencialidad 
+   Integridad 
+   Disponibilidad: </strong> 
+   El principal obejtivo de la Seguridad de la Información es: <strong> Salvaguardar los datos y sistemas de cualquier amenaza o riesgo. </strong> 
+   Acceso no autorizado, pérdida, robo, daño o manipulación de la información 
+</p>
 </div>                                                                                      
 </td>
 
 <td width="50%">
 <h3 align="center">Ciencia de Datos</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688083941/Perfil/CIA1_dxae3o.png" width="400" alt="Ciencia de Datos"></a>
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688171635/Perfil/3_krhm8q.png" width="400" alt="Ciencia de Datos"></a>
 <p>
-<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Confidencialidad <strong>
-   Integridad </strong>
-   Disponibilidad: <strong> 
-   El principal obejtivo es salvaguardar los datos y sistemas de cualquier amenaza o riesgo </strong>
-   como acceso no autorizado, pérdida, robo, daño o manipulación de la información</p>
+<p>
+El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+</p>
 </div>                                                                                      
 </td>
 
