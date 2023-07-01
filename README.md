@@ -63,14 +63,47 @@ El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y
 </p>
 </div>                                                                                      
 </td>
-
-
-
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Ingeniería de Datos y Sistemas de Información</h3>
+<div align="center">
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189402/Perfil/2_umo8ra.png" width="400" alt="Ciencia de Datos"></a>
+<p>
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+</p>
+</div>                                                                                      
+</td>
+
+<td width="50%">
+<h3 align="center">Análisis e Inteligencia de Negocio</h3>
+<div align="center">
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189464/Perfil/1_whwiki.png" width="400" alt="Ciencia de Datos"></a>
+<p>
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+</p>
+</div>                                                                                      
+</td>
+
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
