@@ -73,9 +73,9 @@ El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y
 <td width="50%">
 <h3 align="center">Ingeniería de Datos y Sistemas de Información</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189402/Perfil/2_umo8ra.png" width="400" alt="Ciencia de Datos"></a>
+<a href="https://github.com/Melvin-Rodriguez/Ingenieria" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189402/Perfil/2_umo8ra.png" width="400" alt="Ingeniería"></a>
 <p>
-<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank">
+<a href="https://github.com/Melvin-Rodriguez/Ingenieria" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
@@ -88,9 +88,9 @@ El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y
 <td width="50%">
 <h3 align="center">Análisis e Inteligencia de Negocio</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189464/Perfil/1_whwiki.png" width="400" alt="Ciencia de Datos"></a>
+<a href="https://github.com/Melvin-Rodriguez/BI-BA" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688189464/Perfil/1_whwiki.png" width="400" alt="BI-BA"></a>
 <p>
-<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank">
+<a href="https://github.com/Melvin-Rodriguez/BI-BA" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
