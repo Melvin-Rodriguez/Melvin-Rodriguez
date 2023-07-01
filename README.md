@@ -16,13 +16,13 @@
 
 ## Sobre mi
 
-Soy un ingeniero de Data Analytics altamente enfocado en la seguridad informática, quien siempre aplica las mejores prácticas en ciberseguridad y medidas de seguridad adecuadas en el procesamiento de datos para proteger la información sensible. 
+Soy un ingeniero de Data Analytics altamente enfocado en la seguridad informática, quien siempre aplica las mejores prácticas en ciberseguridad en el procesamiento de datos para proteger la información sensible y confindencial. 
 
-Mi experiencia en prevención de fraude interno y externo me permite identificar patrones y comportamientos sospechosos en los datos, aplicando técnicas de análisis predictivo, estadísticos y minería de datos. De esta manera, puedo colaborar en la detección temprana de posibles fraudes y en la implementación de medidas preventivas y correctivas para minimizar el impacto de estos riesgos en la institución. Además, el análisis de patrones resultantes de estas investigaciones me permite implementar estrategias, alertas y controles informáticos que prevengan tanto el fraude interno, externo como el electrónico.
+Mi experiencia en prevención de fraude me permite identificar patrones y comportamientos sospechosos en los datos, aplicando técnicas de análisis predictivo, estadísticos y minería de datos. De esta manera, puedo colaborar en la detección temprana de posibles fraudes y en la implementación de medidas preventivas y correctivas para minimizar el impacto de estos riesgos en la institución.
 
-He evaluado los procesos críticos de sistemas y la información almacenada en bases de datos de producción de la institución, asegurando su origen e integridad de acuerdo con los requerimientos internos y entes supervisores externos. Manejo bases de datos a través de lenguaje estructurado SQL, Inteligencia de Negocio y Data Analytic, lo que me permite generar información útil para la toma de decisiones y apoyar en la ejecución de auditorías y el logro de objetivos estratégicos.
+He evaluado los procesos críticos de sistemas y la información almacenada en bases de datos, asegurando su origen e integridad de acuerdo con los requerimientos internos y entes supervisores externos. Manejo bases de datos a través de lenguaje estructurado SQL, Inteligencia de Negocio y Data Analytic, lo que me permite generar información útil para la toma de decisiones, apoyar en la ejecución de auditorías y el logro de objetivos estratégicos.
 
-Además, cuento con experiencia en la gestión del recurso humano en evaluaciones cuyo tamaño y complejidad requieren ser efectuadas a través de un equipo de trabajo. También soy capaz de coordinar el trabajo conjunto con otras áreas para la autorización de correcciones directamente a las bases de datos. 
+Además, cuento con experiencia en la gestión del talento humano en proyectos cuyo tamaño y complejidad requieren ser efectuados a través de un equipo de trabajo. 
 
 Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más información, en mi perfil, puedes encontrar detalles adicionales como logros académicos, habilidades y otros aspectos relevantes. Si tienes alguna pregunta o necesitas más información, no dudes en contactarme. Estaré encantado de brindarte mi apoyo en lo que necesites.
 <br>
@@ -31,18 +31,40 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Seguridad Informatica</h3>
+<h3 align="center">Seguridad de la Información</h3>
 <div align="center">
-<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688083941/Perfil/CIA1_dxae3o.png" width="400" alt="Seguridad Informatica"></a>
+<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688171115/Perfil/4_oeqaeu.png" width="400" alt="Seguridad de la Información"></a>
 <p>
 <a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>tex1 <strong>tex2</strong> tex3 <strong>tex4</strong> text5</p>
-</div>
-                                                                                      
+<p>Confidencialidad <strong>
+   Integridad </strong>
+   Disponibilidad: <strong> 
+   El principal obejtivo es salvaguardar los datos y sistemas de cualquier amenaza o riesgo </strong>
+   como acceso no autorizado, pérdida, robo, daño o manipulación de la información</p>
+</div>                                                                                      
 </td>
+
+<td width="50%">
+<h3 align="center">Ciencia de Datos</h3>
+<div align="center">
+<a href="https://github.com/Melvin-Rodriguez/Data-Science" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688083941/Perfil/CIA1_dxae3o.png" width="400" alt="Ciencia de Datos"></a>
+<p>
+<a href="https://github.com/Melvin-Rodriguez/Cybersecurity" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Confidencialidad <strong>
+   Integridad </strong>
+   Disponibilidad: <strong> 
+   El principal obejtivo es salvaguardar los datos y sistemas de cualquier amenaza o riesgo </strong>
+   como acceso no autorizado, pérdida, robo, daño o manipulación de la información</p>
+</div>                                                                                      
+</td>
+
+
 
 </div>                                                             
 </table>                                                                                 
