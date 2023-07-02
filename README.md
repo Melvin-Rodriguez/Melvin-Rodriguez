@@ -59,7 +59,7 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 </a>
 </p>
 <p>
-El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+El objetivo es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas </strong>,Se aplica en diversos campos donde los datos juegan un papel crucial en la toma de decisiones
 </p>
 </div>                                                                                      
 </td>
@@ -80,7 +80,8 @@ El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y
 </a>
 </p>
 <p>
-El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+Por un lado el objetivo de la Ingeniería en Sistemas de Información es: <strong> Analizar las necesidades de información de una organización, identificar los problemas y desafíos, y proponer soluciones basadas en tecnología. </strong>
+La Ingeniería de Datos por otro lado se centra en: <strong> El diseño, desarrollo y gestión de sistemas y procesos para adquirir, transformar y almacenar datos de manera eficiente y confiable</strong>
 </p>
 </div>                                                                                      
 </td>
@@ -95,15 +96,54 @@ El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y
 </a>
 </p>
 <p>
-El objetivo la Ciencia de Datos es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas</strong>
+<strong>La inteligencia de negociode obtiene información relevante y valiosa para el negocio y la transfroma en información significativa realiza la presentación de manera clara y accesible a través de informes, paneles de control y visualizaciones. El análisis del negocio realiza el proceso de examinar y evaluar los datos recopilados para comprender patrones, tendencias y relaciones que ayuden a identificar oportunidades y desafíos.</strong>
 </p>
 </div>                                                                                      
 </td>
-
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Gestión de Proyectos y Metodología Agile/Scrum </h3>
+<div align="center">
+<a href="https://github.com/Melvin-Rodriguez/Gestion-de-Proyectos" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688330826/Perfil/5_wtvxha.png" width="400" alt="Gestion de Proyectos"></a>
+<p>
+<a href="https://github.com/Melvin-Rodriguez/Gestion-de-Proyectos" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>
+La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y controlar los recursos y actividades necesarios para alcanzar los objetivos específicos de un proyecto dentro de los límites de tiempo, presupuesto y calidad establecidos. El enfoque Agile/Scrum se basa en la flexibilidad, la entrega incremental y la iteración, esto permite la entrega de productos o resultados de manera colaborativa. </strong>
+</p>
+</div>                                                                                      
+</td>
+
+
+<td width="50%">
+<!-- <h3 align="center">Análisis e Inteligencia de Negocio</h3> -->
+<div align="center">
+<a href="https://github.com/Melvin-Rodriguez" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688333286/Perfil/M1_gu0cw0.png" width="400" alt="Proximo"></a>
+<p>
+<!-- 
+<a href="https://github.com/Melvin-Rodriguez/BI-BA" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+ -->
+</p>
+<!-- <p>
+<strong>La inteligencia de negociode obtiene información relevante y valiosa para el negocio y la transfroma en información significativa realiza la presentación de manera clara y accesible a través de informes, paneles de control y visualizaciones. El análisis del negocio realiza el proceso de examinar y evaluar los datos recopilados para comprender patrones, tendencias y relaciones que ayuden a identificar oportunidades y desafíos.</strong>
+</p> -->
+</div>                                                                                      
+</td>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
