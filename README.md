@@ -153,7 +153,7 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
     ![SQL Server](https://img.shields.io/badge/Transact%20SQL-%2300599C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 - **Cloud Hosting**:
-- 
+  
     ![GitHub](https://img.shields.io/badge/Github-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
     
@@ -212,7 +212,8 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
     <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
   </a>
   <a href="mailto:mtrabajo87@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445555/Perfil/Gmail-Logo.wine_d2r2lf.png" alt="gmail" height="46" width="50" />
+<!--<img src="https://img.shields.io/badge/Gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white"/>-->
   </a>
 </p>
 <!-- v2 -->
@@ -222,8 +223,15 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 <li>
 <a href="mailto:mtrabajo87@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Melvin Rodríguez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+
 </a>
 </li>
 </ul>
 </div> -->
 
+<!-- Otro modelo de contacto
+<p align="center">
+	<a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/" target="blank"><img align="center" src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445555/Perfil/Gmail-Logo.wine_d2r2lf.png" alt="gmail" height="50" width="50" /></a>
+	<a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/" target="blank"><img align="center" src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445324/Perfil/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0_gn0cmr.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+-->
