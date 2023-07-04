@@ -58,7 +58,7 @@ Lo anterior es un resumen de mi experiencia profesional. Si deseas obtener más 
 </a>
 </p>
 <p>
-El objetivo es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones 	 informadas </strong>,Se aplica en diversos campos donde los datos juegan un papel crucial en la toma de decisiones
+El objetivo es: <strong> Generar conocimientos accionables y soluciones basadas en datos para abordar problemas complejos y tomar decisiones informadas </strong>. Se aplica en diversos campos donde los datos juegan un papel crucial en la toma de decisiones
 </p>
 </div>                                                                                      
 </td>
