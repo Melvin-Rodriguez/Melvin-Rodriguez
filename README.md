@@ -6,11 +6,6 @@
 <!-- Banner -->
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/111929312/249653774-76261d23-7cf5-446e-b82c-1b17a2d423e3.png">
 
-<!-- Contadores -->
-<!-- [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)  -->
-![Profile views](https://komarev.com/ghpvc/?username=Melvin-Rodriguez&label=Profile%20views&color=0e75b6&style=flat)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Melvin-Rodriguez.repoName)
-
 <!-- Modulo 1 -->
 ## Sobre mi
 
@@ -125,13 +120,12 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 <!-- <h3 align="center">Proximamente... </h3> -->
 <div align="center">
 <a href="https://github.com/Melvin-Rodriguez" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688333286/Perfil/M1_gu0cw0.png" width="400" alt="Proximo"></a>
-<p>
-<!-- 
+<!--
+<p> 
 <a href="https://github.com/Melvin-Rodriguez/BI-BA" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
-</a>
- -->
-</p>
+</a> 
+</p> -->
 <!-- <p>
 <strong> Proximamente... </strong>
 </p> -->
@@ -213,7 +207,7 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
   </a>
   <a href="mailto:mtrabajo87@gmail.com">
     <img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445555/Perfil/Gmail-Logo.wine_d2r2lf.png" alt="gmail" height="46" width="50" />
-<!--<img src="https://img.shields.io/badge/Gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white"/>-->
+<!-- <img src="https://img.shields.io/badge/Gmail-%2300599C.svg?style=for-the-badge&logo=gmail&logoColor=white"/> -->
   </a>
 </p>
 <!-- v2 -->
@@ -223,7 +217,6 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 <li>
 <a href="mailto:mtrabajo87@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Melvin Rodríguez-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-
 </a>
 </li>
 </ul>
@@ -233,5 +226,13 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 <p align="center">
 	<a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/" target="blank"><img align="center" src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445555/Perfil/Gmail-Logo.wine_d2r2lf.png" alt="gmail" height="50" width="50" /></a>
 	<a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/" target="blank"><img align="center" src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688445324/Perfil/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0_gn0cmr.png" alt="linkedin" height="50" width="50" /></a>
-</p>
--->
+</p> -->
+<!-- Modulo 6-->
+<!-- Contadores -->
+<!-- [![GitHub followers](https://img.shields.io/github/followers/Melvin-Rodriguez?style=social)](https://github.com/Melvin-Rodriguez)  -->
+
+<div align='center'>
+	
+![Profile views](https://komarev.com/ghpvc/?username=Melvin-Rodriguez&label=Profile%20views&color=0e75b6&style=flat)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Melvin-Rodriguez.repoName)
+</div>
