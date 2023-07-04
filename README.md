@@ -196,6 +196,19 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
   </td>
 -->
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/melvin-rodr%C3%ADguez-060a9a223/">
+    <img src="https://skillicons.dev/icons?i=linkedin&perline=14" />
+  </a>
+</p>
+<!-- ================================================================================= -->
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
