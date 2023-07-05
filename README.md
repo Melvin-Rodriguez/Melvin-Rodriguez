@@ -117,19 +117,23 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 </td>
 <!-- Tabla 3, F3C2-->
 <td width="50%">
-<!-- <h3 align="center">Proximamente... </h3> -->
-<div align="center">
-<a href="https://github.com/Melvin-Rodriguez" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688333286/Perfil/M1_gu0cw0.png" width="400" alt="Proximo"></a>
+<h3 align="center">Otros Proyectos </h3> 
+<div align="left">
 <!--
 <p> 
-<a href="https://github.com/Melvin-Rodriguez/BI-BA" target="_blank">
+<a href="https://github.com/Melvin-Rodriguez" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-C0C0C0?style=for-the-badge&logo=github&logoColor=black">
 </a> 
 </p> -->
-<!-- <p>
-<strong> Proximamente... </strong>
-</p> -->
-</div>                                                                                      
+  <li>Análisis y Prevención del Fraude</li>
+  <li>Gobierno de datos</li>
+  <li>Banca</li>
+  <li>Riesgos</li>
+</div>
+<div align="center">
+<br></br>
+<a href="https://github.com/Melvin-Rodriguez" target="_blank"><img src="https://res.cloudinary.com/dssdvhtjq/image/upload/v1688333286/Perfil/M1_gu0cw0.png" width="400" alt="Proximo"></a>
+</div>
 </td>
 </div>                                                             
 </table>                                                                                 
@@ -141,29 +145,41 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 
 <p align="center">
 
-- **Languages**:
+**Languages**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![SQL Server](https://img.shields.io/badge/Transact%20SQL-%2300599C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Transact%20SQL-%2300599C.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-- **Cloud Hosting**:
+**Cloud Hosting**:
   
-    ![GitHub](https://img.shields.io/badge/Github-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/Github-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%2300599C.svg?style=for-the-badge&logo=github&logoColor=white)
     
-- **Softwares and Tools**:
+**Softwares and Tools**:
   
-    ![Jupyter](https://img.shields.io/badge/Jupyter-%2300599C.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-    ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2300599C.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Google](https://img.shields.io/badge/Google%20Workspace-%2300599C.svg?style=for-the-badge&logo=google&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%2300599C.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%2300599C.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%2300599C.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-%2300599C.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Azure DevOps Server](https://img.shields.io/badge/Azure%20DevOps-%2300599C.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Google](https://img.shields.io/badge/Google%20Workspace-%2300599C.svg?style=for-the-badge&logo=google&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-%2300599C.svg?style=for-the-badge&logo=looker&logoColor=white)
+![Microsof Oficce](https://img.shields.io/badge/Microsoft%20Office-%2300599C.svg?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-- **Graphic Designing**:
-<!--canvas-->
+**Graphic Designing**:
 
-- **Otros**:
+![Canva](https://img.shields.io/badge/Canva-%2300599C.svg?style=for-the-badge&logo=canva&logoColor=white)
+
+**IA**:
+
+![ChatGpt](https://img.shields.io/badge/ChatGpt-%2300599C.svg?style=for-the-badge)
+
+**Otros**:
   
-    ![Markdown](https://img.shields.io/badge/markdown-%2300599C.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%2300599C.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Storytelling](https://img.shields.io/badge/Storytelling-%2300599C.svg?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL-%2300599C.svg?style=for-the-badge)
+![DTS](https://img.shields.io/badge/DTS-%2300599C.svg?style=for-the-badge)
   
 </p>
 
