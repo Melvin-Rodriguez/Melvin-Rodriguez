@@ -180,6 +180,8 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 ![Storytelling](https://img.shields.io/badge/Storytelling-%2300599C.svg?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-%2300599C.svg?style=for-the-badge)
 ![DTS](https://img.shields.io/badge/DTS-%2300599C.svg?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-%2300599C.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%2300599C.svg?style=for-the-badge&logo=css3&logoColor=white)
   
 </p>
 
