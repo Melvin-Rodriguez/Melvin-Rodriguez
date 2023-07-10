@@ -254,4 +254,5 @@ La Gestión de proyectos se ocupa de: <strong>Planificar, organizar, dirigir y c
 ![Profile views](https://komarev.com/ghpvc/?username=Melvin-Rodriguez&label=Profile%20Views&color=0e75b6&style=flat)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Melvin-Rodriguez&left_text=%20Repository%20Views)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=https://melvin-rodriguez.github.io/&left_text=%20Page%20Visitors)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=https://melvin-rodriguez.github.io" alt="visitor badge"/>
 </div>
